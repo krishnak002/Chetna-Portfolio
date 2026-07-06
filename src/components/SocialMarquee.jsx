@@ -8,7 +8,7 @@ export default function SocialMarquee() {
     <span className="text-3xl text-cream">-</span>,
     <span className="font-script text-4xl md:text-5xl text-cream">LinkedIn</span>,
     <span className="text-3xl text-cream">-</span>,
-    <span className="font-script text-4xl md:text-5xl text-cream">Pintrest</span>,
+    <span className="font-script text-4xl md:text-5xl text-cream">pinterest</span>,
     <span className="text-3xl text-cream">-</span>,
   ];
   return (

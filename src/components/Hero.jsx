@@ -40,7 +40,7 @@ export default function Hero() {
 
             <p className="font-display text-cocoa-deep text-lg sm:text-2xl md:text-4xl leading-[1.5] text-center">
               From{" "}
-              <em className="font-script text-3xl sm:text-4xl md:text-6xl align-baseline mx-1">Stratergy</em>{" "}
+              <em className="font-script text-3xl sm:text-4xl md:text-6xl align-baseline mx-1">strategy</em>{" "}
               to posting and{" "}
               <em className="font-script text-3xl sm:text-4xl md:text-6xl align-baseline mx-1">Engaging</em>{" "}
               With followers , I do{" "}
