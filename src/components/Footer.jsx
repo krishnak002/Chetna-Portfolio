@@ -19,7 +19,7 @@ export default function Footer() {
         </a>
         <div className="mt-10 flex flex-wrap justify-center gap-6 text-sm text-cream/70">
           <a href="#" className="hover:text-cream">Instagram</a>
-          <a href="www.linkedin.com/in/chetna-bhatia14" className="hover:text-cream">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/chetna-bhatia14" className="hover:text-cream">LinkedIn</a>
           <a href="#" className="hover:text-cream">Pintrest</a>
         </div>
         <p className="mt-10 text-xs text-cream/50">© 2026 Chetna Bhatia.</p>
