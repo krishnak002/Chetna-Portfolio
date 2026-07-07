@@ -22,7 +22,7 @@ export default function Footer() {
           <a href="#" className="hover:text-cream">LinkedIn</a>
           <a href="#" className="hover:text-cream">Pintrest</a>
         </div>
-        <p className="mt-10 text-xs text-cream/50">© 2026 Chetna Bhatia. Made with too much coffee in India.</p>
+        <p className="mt-10 text-xs text-cream/50">© 2026 Chetna Bhatia.</p>
       </div>
     </footer>
   );
