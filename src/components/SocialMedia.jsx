@@ -121,8 +121,7 @@ export default function AboutSpread() {
                  clipPath:
                    "polygon(1% 8%, 99% 2%, 100% 85%, 97% 100%, 40% 96%, 3% 100%, 0% 60%, 2% 20%)",
                }}>
-            {/* Pin */}
-            <span className="absolute -top-2 left-3 w-4 h-4 rounded-full bg-red-500 shadow-md ring-2 ring-red-700/30" />
+            {/* Pin */} 
             <div className="flex items-center gap-3 sm:gap-4">
               {platforms.map((p) => (
                 <img
