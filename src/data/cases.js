@@ -133,7 +133,7 @@ export const CASES = {
     ],
     quote: "Our Instagram finally has a consistent and premium look.",
     quoteBy: " - Team - eatbit chikki",
-    tag: "@kwalityholidays",
+    tag: "@eatbit_",
     grid: [
       { type: "img", src: e1 },
       { type: "img", src: e2 },
@@ -154,7 +154,7 @@ export const CASES = {
     ],
     quote: "We loved how every creative maintained the same brand feel. Our page now looks clean, consistent, and trustworthy.",
     quoteBy: " — Nutritius Chikki Team",
-    tag: "@kwalityholidays",
+    tag: "@nutritius.india",
     grid: [
       { type: "img", src: n1 },
       { type: "img", src: n2 },
